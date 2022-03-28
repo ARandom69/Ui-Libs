@@ -1,5 +1,3 @@
-local SolarisLib = loadstring(game:HttpGet("https://solarishub.dev/SolarisLib.lua"))()
-
 --[[SolarisLib:New({
    Name - Title of the UI <string>
    FolderToSave - Name of the folder where the UI files will be stored <string>
